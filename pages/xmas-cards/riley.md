@@ -3,6 +3,18 @@ layout: page
 permalink: /merry-xmas-riley
 ---
 
+<style>
+#bannerimage {
+  width: 100%;
+  background-image: url(https://img.freepik.com/free-vector/gradient-happy-holidays-horizontal-banner_23-2149193534.jpg?w=1380&t=st=1671671371~exp=1671671971~hmac=ae41daa92ff541a3297bfa68b12a353291579995d302d94a343a989f7e607e11);
+  height:355px;
+  background-color: purple;
+  background-position: center;
+}
+</style>
+
+<div id="bannerimage"></div>
+
 <h1 style="text-align:center">Merry Christmas Riley!</h1>
 
 Merry Christmas Riley, and _Feliz Navidad_!
