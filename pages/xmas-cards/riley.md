@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /merry-xmas-Riley
+permalink: /merry-xmas-riley
 ---
 
 <h1 style="text-align:center">Merry Christmas Riley!</h1>
